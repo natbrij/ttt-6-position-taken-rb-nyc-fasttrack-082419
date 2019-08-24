@@ -6,5 +6,5 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 
-if index == " ", "", nil
+if position_taken?(" "," ")
   puts "False"
