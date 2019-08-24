@@ -5,3 +5,9 @@ end
 
 board = []
 index = 0
+
+if
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+index = 0
+
+puts "False"
