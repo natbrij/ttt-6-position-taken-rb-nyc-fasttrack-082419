@@ -5,6 +5,3 @@ end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
-
-if index == " "
-  puts "False"
