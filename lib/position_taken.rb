@@ -8,3 +8,5 @@ index = 0
 
 if position_taken?(" "," ")
   puts "False"
+
+end
