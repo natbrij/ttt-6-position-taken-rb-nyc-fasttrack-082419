@@ -6,5 +6,5 @@ end
 board = []
 index = 0
 
-if position_taken?(" ", " ")
-else puts "False"
+if board = " " && index = " "
+  puts "False"
