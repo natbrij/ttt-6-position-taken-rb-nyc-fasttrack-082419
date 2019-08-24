@@ -6,7 +6,9 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 
-if position_taken?(" "," ")
+if position_taken?(board, index)
+  board = " "
+  index = " "
   puts "False"
 
 end
